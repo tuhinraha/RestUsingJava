@@ -23,7 +23,7 @@ public class HttpPostJson {
 		con.setRequestMethod("POST");
 
 		JSONObject parent = new JSONObject();
-		parent.put("auth", "tuhin");
+		parent.put("auth", "pri");
 		/*JSONObject cred   = new JSONObject();
 		JSONObject auth   = new JSONObject();
 		
